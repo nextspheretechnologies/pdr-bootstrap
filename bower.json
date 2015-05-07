@@ -1,0 +1,18 @@
+{
+  "name": "pdr-bootstrap",
+  "version": "0.0.1",
+  "homepage": "https://github.com/nextspheretechnologies/pdr-bootstrap",
+  "authors": [
+    "pdr@nextsphere.com"
+  ],
+  "description": "application modules",
+  "main": "index.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
